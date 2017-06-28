@@ -1,0 +1,266 @@
+#Format for the list is as seen below. Add words when they are given.
+#latin
+#english
+#latin
+#english
+#...
+aevum
+age
+avarus
+greedy
+caelum
+sky
+capella
+goat
+careo
+to be without
+clementer
+gently
+conveniens
+agreeing
+effundo
+to pour out
+exigo
+to drive out
+extollo
+to lift up
+fingo
+to shape
+fodio
+to dig out
+fraudo
+to swindle
+heres
+heir
+irascor
+to become angry
+iucunditas
+pleasure
+lucrum
+wealth
+lympha
+water
+obsisto
+to block
+oro
+to beg
+periculum
+danger
+polio
+to polish
+porro
+next
+procul
+from afar
+prolabor
+to glide forward
+queror
+to complain
+sarcina
+bag
+sensim
+gradually
+spelunca
+cave
+stultus
+stupid
+tenebrae
+darkness
+uber
+rich
+aer
+air
+ala
+wing
+clivus
+slope
+ensis
+sword
+exilium
+exile
+limes
+boundary
+linum
+thread
+lusus
+playing
+mel
+honey
+nidus
+nest
+ordo
+row
+pelagus
+sea
+penna
+feather
+proles
+offspring
+celsus
+high
+damnosus
+destructive
+demissus
+low
+dispar
+unequal
+flavus
+yellow
+odoratus
+fragrant
+tener
+young
+alligo
+to bind
+coepi
+to begin
+desero
+to abandon
+instruo
+to equip
+levo
+to lift
+mollio
+to soften
+obstupesco
+to gape in astonishment
+perodi
+to hate
+possideo
+to take control of
+volo
+to fly
+obscenus
+lewd
+audeo
+to dare
+propoetides
+daughters of Propoetides
+pudor
+sense of shame
+induro
+to harden
+silex
+stone
+aevum agere
+to spend one's life
+crimen
+crime
+caelebs
+unmarried
+thalamus
+bedroom
+consors
+partner
+concipio
+to conceive
+ars
+art
+digitus
+finger
+insido
+to sink into
+livor
+bruise
+concha
+shell
+lapillus
+pebble
+volucris
+bird
+pila
+ball
+gemma
+jewel
+baca
+bead
+redimiculum
+garland
+stratum
+bedding
+acclino
+to lay upon
+festus
+festive
+icio
+to strike
+iuvenca
+heifer
+torus
+bed
+concido
+to fall down
+tus
+frankincense
+fungor
+to perform
+accendo
+to kindle
+simulacrum
+statue
+subsido
+to give way to
+cedo
+to yield to
+cera
+wax
+tracto
+to handle
+pollex
+thumb
+utilis
+useful
+retracto
+to rehandle
+vena
+vein
+heros
+hero
+erubesco
+to blush
+cogo
+to force
+gigno
+to give birth
+abutor
+to waste
+serta
+wreath
+tandem
+ago
+to drive
+jacto
+to throw
+nefārius
+sēnsim
+carefully
+speciōsus
+beautiful
+constringo
+to confine
+capio
+to grasp
+clādes
+disaster
+speciēs
+appearance
+sentio
+to feel
+furor
+fury
+ignoro
+to not know
+convoco
+to assemble
+paeniteō
+to displease
+coniuratio
+plot
+dīrus
+awful
+eludo
+to elude
+munitus
+defended
+iste
+that

@@ -27,6 +27,7 @@ public class workingNumbers1
 //		System.out.println("4 700 800 = " + workingNumbers1.number2Text(4700800));
 //		System.out.println("999 999 999 = " + workingNumbers1.number2Text(999999999));
 		
+		System.out.println("0 = " + workingNumbers1.number2Text(0));
 		System.out.println("1 = " + workingNumbers1.number2Text(1));
 		System.out.println("2 = " + workingNumbers1.number2Text(2));
 		System.out.println("3 = " + workingNumbers1.number2Text(3));
@@ -221,7 +222,7 @@ public class workingNumbers1
 		for(int index = digits.size() - 1; index >= 0; index--)
 		{
 			//Update next digit
-			if(index < digits.size() - 1)nextDigit = digits.get(index + 1);
+			if(index < digits.size() - 1) nextDigit = digits.get(index + 1);
 			
 			//Only Zero catch
 			if(digits.size() == 1)
@@ -245,7 +246,7 @@ public class workingNumbers1
 			}
 			
 			//Extra additions
-			if(index == 3) text += " thousand ";
+			if(index == 3) text += "thousand ";
 			if(index == 6) text += " million ";
 			//if(c == 10) text += "billion ";
 			//if(c == 13) text += "trillion ";
